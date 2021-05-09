@@ -63,9 +63,11 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
-| *Azure Postgres Database* |     |              |
-| *Azure Service Bus*   |         |              |
-| ...                   |         |              |
+| *Azure Postgres Database* |  Basic   |     $4.92       |
+| *Azure Service Bus*   |  Basic     |      $0.00        |
+| *Azure App Service*   |  Free Tier (F1) | $0.00        |
+| *Azure Storage Account*   |  StorageV2 (Standard/Cool
+) | $0.00        |
 
 ## Architecture Explanation
 This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
